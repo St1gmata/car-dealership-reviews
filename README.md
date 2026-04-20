@@ -1,4 +1,4 @@
-# Car Dealership Reviews Portal
+# fullstack_developer_capstone
 
 A full-stack Django and React web application that allows users to:
 - browse dealerships
